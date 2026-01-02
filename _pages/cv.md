@@ -1,19 +1,9 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-{% include base_path %}
 
 Education
 ======
-* Ph.D in Information and Communication Engineering, Nanjing University of Information Science and Technology, 2022
-* M.S. in System Science , Nanjing University of Information Science and Technology, 2018
-* B.S. in Electrical Engineering and Automation, Nanjing University of Information Science and Technology, 2015
+* Ph.D Nanjing University of Information Science and Technology, 2022
+* M.S. Nanjing University of Information Science and Technology, 2018
+* B.S. Nanjing University of Information Science and Technology, 2015
 
 Work experience
 ======
