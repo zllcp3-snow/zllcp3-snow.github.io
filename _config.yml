@@ -24,10 +24,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Linglong Zhu"
   pronouns         : # example: "her"  
   bio              : "Associate Professor at Wuxi University"
-  location         : "无锡，中国"
+  location         : #"无锡，中国"
   employer         : # "Wuxi University"
   uri              : # URL
   email            : "llzhu@cwxu.edu.cn" 
