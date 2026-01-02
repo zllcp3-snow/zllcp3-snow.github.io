@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Linglong Zhu's home page"
+title: "Welcome to Linglong Zhu's homepage!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,9 +14,6 @@ redirect_from:
 *   入选 2025 年江苏高校“青蓝工程”优秀青年骨干教师
 *   入选 2025 年无锡市“太湖人才计划-创业领军人才”
 *   主持国家自然科学基金等课题 10 余项
-
-**Contact:**
-*   Email: llzhu@cwxu.edu.cn
 
 ## Research Interests
 Satellite remote sensing intelligent interpretation, Transportation big data spatiotemporal prediction, Meteorological disaster monitoring and early warning.
