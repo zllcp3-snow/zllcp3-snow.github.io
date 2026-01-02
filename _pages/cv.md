@@ -11,26 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Information and Communication Engineering, Nanjing University of Information Science and Technology, 2022
+* M.S. in System Science , Nanjing University of Information Science and Technology, 2018
+* B.S. in Electrical Engineering and Automation, Nanjing University of Information Science and Technology, 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 07/2025-present: Associate Professor
+  * School of Internet of Things Engineering, Wuxi University
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 06/2025-present: Postdoctoral Research Associate
+  * Southeast University, Traffic Management Research Institute of the Ministry of Public Security
+  
+* 07/2022-07/2025: Lecturer
+  * School of Internet of Things Engineering, Wuxi University
   
 Skills
 ======
