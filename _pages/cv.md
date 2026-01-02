@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D Nanjing University of Information Science and Technology, 2022
-* M.S. Nanjing University of Information Science and Technology, 2018
-* B.S. Nanjing University of Information Science and Technology, 2015
+* 2018.09~2022.06 南京信息工程大学 信息与通信工程专业, 博士
+* 2015.09~2018.06 南京信息工程大学 系统科学专业, 硕士
+* 2011.09~2015.06 南京信息工程大学 电气工程与自动化专业, 学士
 
 Work experience
 ======
